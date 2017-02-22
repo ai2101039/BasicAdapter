@@ -2,7 +2,6 @@ package svgouwu.napp.adapter;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
-
 import java.util.ArrayList;
 import java.util.List;
 
