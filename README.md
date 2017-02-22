@@ -1,6 +1,11 @@
 ##首先感谢原作者  鸿洋_
 * [博客地址：http://blog.csdn.net/lmj623565791/article/details/51854533](http://blog.csdn.net/lmj623565791/article/details/51854533)
 
+
+##使用方法
+* 1、下载BasicAdapter 和 BasicViewHolder 到你的项目中
+* 2、编写Class 继承
+
 ##对RecyclerView的扩展
 * 1、提供AddHeadView
 * 2、提供AddFootView
